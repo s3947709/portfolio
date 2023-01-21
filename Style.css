@@ -2,3 +2,8 @@ h3 {
     color: #f9c784;
     margin: auto auto auto 700px;
 }
+
+p {
+    color: black;
+    margin: auto auto auto auto;
+}

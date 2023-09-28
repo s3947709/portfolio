@@ -1,2 +1,2 @@
 # portfolio
-Creating a portfolio of all of my projects that are not uni based and are done in my spare time!
+This website is being used as a resume and a way to show off what I can do with my HTML and css skills as I wish to pursue a career in web development or programming

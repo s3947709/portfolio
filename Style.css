@@ -22,6 +22,7 @@ p1 {
 
 h1 {
     color: darkslategrey;
+    text-align: center;
 }
 
 .centered-heading {
@@ -40,4 +41,10 @@ h1 {
     margin-right: 10px;
     background-color: #f1f1f1;
     border: 1px solid #ccc;
+}
+
+.centered-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

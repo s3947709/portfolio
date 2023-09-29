@@ -9,7 +9,10 @@ p {
 }
 
 body {
-    background-color: rgb(48, 54, 54);
+    background-image: url('shapelined.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 html {

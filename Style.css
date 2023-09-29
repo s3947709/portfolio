@@ -20,7 +20,5 @@ p1 {
 }
 
 h1 {
-    .centered-text {
-        text-align: center;
-    }
+    color: darkgrey;
 }

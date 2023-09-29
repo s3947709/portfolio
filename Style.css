@@ -22,3 +22,7 @@ p1 {
 h1 {
     color: darkgrey;
 }
+
+.centered-heading {
+    text-align: center;
+}

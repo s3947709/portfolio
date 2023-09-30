@@ -50,6 +50,7 @@ h1 {
     padding: 10px;
     animation: fade 6s infinite;
     align-items: center;
+    overflow: auto;
 }
 
 @keyframes fade {

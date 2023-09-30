@@ -30,7 +30,7 @@ h1 {
 }
 
 .card-container {
-    overflow-x: scroll;
+    overflow-x: auto;
     white-space: nowrap;
 }
 

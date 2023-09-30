@@ -27,7 +27,7 @@ def main():
 
 
         elif choice == 2:
-            category = input ("What was the item: ")
+            category = input ("Which item did you sell: ")
             amount = input ("How much did you sell it for: ")
             add_resale (category,amount)
 

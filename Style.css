@@ -48,7 +48,7 @@ h1 {
     background-color: #f1f1f1;
     border: 1px solid #ccc;
     padding: 10px;
-    animation: move 2s infinite alternate;
+    animation: fade 6s infinite;
     align-items: center;
     overflow: hidden;
 }

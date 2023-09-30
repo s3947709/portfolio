@@ -48,6 +48,7 @@ h1 {
     border: 1px solid #ccc;
     padding: 10px;
     animation: fade 6s infinite;
+    align-items: center;
 }
 
 @keyframes fade {

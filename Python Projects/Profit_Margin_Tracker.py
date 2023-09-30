@@ -32,4 +32,4 @@ def main():
             add_resale (category,amount)
 
         elif choice == 3:
-            add_resale - add_purchase for
+            add_resale - add_purchase

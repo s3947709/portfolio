@@ -48,7 +48,7 @@ h1 {
     background-color: #f1f1f1;
     border: 1px solid #ccc;
     padding: 10px;
-    animation: fade 6s infinite;
+    animation: scroll 10s linear infinite;
     align-items: center;
     overflow: hidden;
 }
@@ -75,4 +75,13 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+@keyframes scroll {
+    from {
+        transform: translateX(100%);
+    }
+    to {
+        transform: translateX(-100%);
+    }
 }

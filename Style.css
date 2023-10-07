@@ -31,7 +31,7 @@ h1 {
 }
 
 .card-container {
-    overflow-x: auto;
+    width: 100%;
     white-space: nowrap;
 }
 
